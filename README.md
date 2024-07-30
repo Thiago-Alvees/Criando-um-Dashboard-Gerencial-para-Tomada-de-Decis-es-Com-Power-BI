@@ -1,4 +1,4 @@
-#Objetivo do Desafio:
+# Objetivo do Desafio:
 O objetivo deste desafio é modificar o relatório criativo, o primeiro que criamos juntos, com um foco especial na experiência do usuário. Neste processo, será essencial acompanhar o vídeo para compreender as modificações realizadas. Além disso, consideraremos os seguintes pontos-chave:
 
 Posicionamento: Garanta que todos os elementos do relatório estejam posicionados de maneira intuitiva e lógica, facilitando a navegação e a compreensão das informações.
@@ -7,7 +7,7 @@ Proporção Áurea: Aplique a proporção áurea para criar uma harmonia visual 
 Segmentação dos Dados: Organize os dados de maneira clara e segmentada, facilitando a análise e a interpretação das informações.
 Conforme discutido no curso, essas diretrizes não são regras rígidas. Entenda cada ponto e incorpore-os ao seu relatório, mas também saiba quando é apropriado quebrar as regras para adicionar criatividade. Esses elementos inesperados tornarão seu relatório mais interessante e dinâmico.
 
-#Próximos Passos:
+# Próximos Passos:
 Insira os botões de navegabilidade: Adicione botões que facilitem a navegação entre as diferentes páginas do relatório.
 Modifique a segunda página: Adapte a segunda página do relatório de forma similar ao que foi demonstrado no desafio para a primeira página.
 Ajuste os botões de navegabilidade: Destaque os botões de navegabilidade, focando em tornar a seleção e o foco mais evidentes.
