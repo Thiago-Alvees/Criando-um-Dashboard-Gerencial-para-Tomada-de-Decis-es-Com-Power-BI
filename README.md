@@ -13,5 +13,15 @@ Modifique a segunda página: Adapte a segunda página do relatório de forma sim
 Ajuste os botões de navegabilidade: Destaque os botões de navegabilidade, focando em tornar a seleção e o foco mais evidentes.
 Crie menus de navegabilidade em cada página: Garanta que cada página do relatório possua menus de navegação claros e acessíveis.
 Estilo dos botões: O estilo dos botões é livre, permitindo criatividade e personalização.
-Lembre-se, o relatório final deve ser composto por 3 páginas, cada uma projetada com uma atenção cuidadosa à experiência do usuário e aos princípios discutidos. Boa sorte e divirta-se criando um relatório financeiramente informativo e visualmente atraente!
+
+# Antes:
+![image](https://github.com/user-attachments/assets/53b62bc5-051c-4238-b245-a62be0005c9f) , ![image](https://github.com/user-attachments/assets/77cee549-f104-418c-b7c0-7630484a3cb4) , ![image](https://github.com/user-attachments/assets/bba82ab1-d3dc-43bb-859e-a55085676dd9)
+
+# Depois:
+![image](https://github.com/user-attachments/assets/86dfba24-bc0c-48f3-aa75-234a3c9340d6) , ![image](https://github.com/user-attachments/assets/ab67ff93-b626-49a2-a7ee-4564f22dbc1a), ![image](https://github.com/user-attachments/assets/364ad736-441d-414f-8b51-944cdd86f34f)
+
+
+
+
+
 
